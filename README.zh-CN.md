@@ -87,6 +87,10 @@ Zeroth Bridge「小桥」面向展示、教育、遥操及小物体交互，也�
 
 小型人形，机身苗条。关键尺寸与质量以整机规格表为准（85 cm / 约 10 kg）。胸壳为 TPU 软质材料。
 
+<p align="center">
+  <img src="images/4.1-structure.png" alt="Zeroth Bridge body structure" width="640" />
+</p>
+
 更细的图纸、BOM 与装配说明见 [Robot Hub](https://github.com/Zeroth-OpenBridge/OpenBridge-Robot-Hub)。
 
 ---
