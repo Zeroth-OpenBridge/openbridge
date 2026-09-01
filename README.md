@@ -87,7 +87,7 @@ Teleoperation includes three modes: basic remote control, VR upper-body followin
 
 ## Mechanical Structure
 
-A compact humanoid with a slender body. Key dimensions and mass follow the specification table (85 cm / ~10 kg). The chest shell is soft TPU.
+A compact humanoid with a slender body. Key dimensions and mass follow the specification table (85 cm / ~10 kg).
 
 For detailed drawings, and assembly instructions, see [Robot Hub](https://github.com/Zeroth-OpenBridge/OpenBridge-Robot-Hub).
 
