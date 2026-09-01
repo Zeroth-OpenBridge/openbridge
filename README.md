@@ -95,12 +95,6 @@ A compact humanoid with a slender body. Key dimensions and mass follow the speci
   <img src="images/4.1-structure.en.png" alt="Zeroth Bridge body structure" width="640" />
 </p>
 
-**Joint range of motion and motor parameters**
-
-<p align="center">
-  <img src="images/4.1-joints.png" alt="Joint range of motion and motor parameters" width="480" />
-</p>
-
 For detailed drawings, BOM, and assembly instructions, see [Robot Hub](https://github.com/Zeroth-OpenBridge/OpenBridge-Robot-Hub).
 
 ---
